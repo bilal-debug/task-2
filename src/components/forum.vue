@@ -221,7 +221,7 @@ function submission(e) {
                         submit
                     </div>
                     <div>
-                        <img class="mx-2 w-2" src="C:\Users\ThinkPad-L440\Downloads\Vector (1).png" alt="">
+                        <img class="mx-2 w-2" src="/Vector%20(1).png" alt="">
                     </div>
                 </button> </div>
 
