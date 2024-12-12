@@ -117,9 +117,9 @@ function submission(e) {
         <div class="mt-5 mx-9 md:text-e">
             <p class=" text-center  text-[12px] md:text-[22px] md:mx-auto md:w-[50%] md:text-end ">Register to join <span class="font-bold">SIT Open House 2025, 8th - 9th February 2025,</span> SIT Punggol Campus, 1 Punggol Coast Road.</p>
         </div>
-        <div id="custum-bg" class=" md:bg-[url('/Event%20ticket%20(1).png')], md:bg-[url('/Event%20ticket%20(2).png')], bg-contain bg-end bg-no-repeat  "
+        <div class=" md:bg-[url('/tickets.png')] bg-contain bg-end bg-no-repeat  "
         
-        style="background-position: 0 100%,0 90%" 
+        style="background-position: 0 100%" 
         >
             <form action="" class="mx-9 mt-9 md:mx-[350px] ">
                 <h2 class="font-bold mb-3 md:text-[32px]">Enter your Details</h2>
@@ -230,25 +230,5 @@ function submission(e) {
         </div>
     </div>
 </template>
-<style scoped>
-@keyframes moveRedBackground {
-  0% {
-    background-position: 0% 40%; /* Start at the left */
-  }
-  100% {
-    background-position: 100% 0%; /* Move to the right */
-  }
-}
 
-#custum-bg {
-      background-image: url('/Event%20ticket%20(1).png'), url('/Event%20ticket%20(2).png');
-      
-      background-size: contain;
-      background-repeat: no-repeat;
-      animation: moveRedBackground 1s linear infinite;
-      background-position: 0% 0%;
-  
- 
-    }
 
-</style>

@@ -26,7 +26,7 @@ nav.classList.toggle('!top-[9%]')
         id="nav"
         class="flex justify-around items-center w-[92%] mx-auto">
             <div class="">
-                <img src="C:\Users\ThinkPad-L440\Downloads\Group.png" alt="">
+                <img src="/Group.png" alt="">
             </div>
             <div 
             id="nav-links"
@@ -36,7 +36,7 @@ nav.classList.toggle('!top-[9%]')
                     <li class=" font-extrabold uppercase md:text-black text-white"><a href="#">how to get here</a></li>
                 </ul>
                 <div class="mt-[30px] md:mt-0 mx-auto md:mx-0 ">
-                <button class="bg-red-600 px-5 py-2 flex text-white items-center font-extrabold uppercase">Register Now <img class="mx-2" src="C:\Users\ThinkPad-L440\Downloads\Vector (1).png" alt=""> </button>
+                <button class="bg-red-600 px-5 py-2 flex text-white items-center font-extrabold uppercase">Register Now <img class="mx-2" src="/Vector%20(1).png" alt=""> </button>
             </div>
             </div>
             <div class="flex items-center md:hidden ">
